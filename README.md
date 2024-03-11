@@ -1,4 +1,4 @@
-### Olá👋
+### Sim, tanto meu nome quanto sobrenome são Lucas 😄
 
 <!--
 **Lucas-319/lucas-319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
