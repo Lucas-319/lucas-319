@@ -47,13 +47,13 @@ https://github.com/rafaballerini2/rafaballerini2/issues/1
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
-    height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-319&card_width=320&theme=dark" 
+    height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-319&card_width=320&theme=dark" 
     media="(prefers-color-scheme: dark)&theme=dark"
   />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img 
-    height=150 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-319&layout=compact&card_width=220&theme=dark" 
+    height=150 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-319&layout=compact&card_width=220&theme=dark" 
     media="(prefers-color-scheme: dark)&theme=dark"
   />
 </a>
