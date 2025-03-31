@@ -3,7 +3,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
-    height=180 
+    height=190 
     align="center" 
     alt="GitHUb Stats"
     src="https://github-readme-stats.vercel.app/api?username=Lucas-319&theme=dark&show_icons=true&include_all_commits=true&icon_color=FFFFFF" 
@@ -12,7 +12,7 @@
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img 
-    height=180 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-319&layout=compact&theme=dark" 
+    height=190 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-319&layout=compact&theme=dark" 
   />
 </a>
 
