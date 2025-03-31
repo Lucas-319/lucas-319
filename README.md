@@ -6,14 +6,13 @@
     height=200 
     align="center" 
     alt="GitHUb Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Lucas-319&card_width=320&theme=dark&show_icons=true&include_all_commits=true&icon_color=FFFFFF" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucas-319&theme=dark&show_icons=true&include_all_commits=true&icon_color=FFFFFF" 
   />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img 
-    height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-319&layout=compact&card_width=220&theme=dark" 
-    media="(prefers-color-scheme: dark)&theme=dark"
+    height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-319&layout=compact&theme=dark" 
   />
 </a>
 
