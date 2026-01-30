@@ -1,38 +1,13 @@
-### Sim, tanto meu nome quanto sobrenome são Lucas 😄
+## Sim, tanto meu nome quanto sobrenome são Lucas 😄
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Lucas-319&theme=dark&show_icons=true&include_all_commits=true&icon_color=FFFFFF"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Lucas-319&theme=default&show_icons=true&include_all_commits=true&icon_color=000000"
-  />
-  <img
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Lucas-319&theme=default&show_icons=true&include_all_commits=true&icon_color=000000"
-    height="190"
-    align="center"
-  />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-319&layout=compact&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-319&layout=compact&theme=default"
-  />
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-319&layout=compact&theme=default"
-    height="190"
-    align="top"
-  />
-</picture>
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
+![Python](https://img.shields.io/badge/Python-000?logo=python)
+![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?logo=springboot)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
+![Git](https://img.shields.io/badge/Git-000?logo=git)
 
 <picture>
   <source
